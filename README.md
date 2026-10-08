@@ -22,8 +22,9 @@ aufklappst. Ohne dass du eine App öffnen, suchen oder dich erinnern musst.
 ## Wo es hilft
 
 **Montagmorgen.** Freitag ist drei Tage her und fühlt sich an wie drei Wochen.
-Handoff zeigt dir die Notiz von Freitag — nicht irgendeine, sondern die letzte,
-die du geschrieben hast.
+Handoff zeigt dir die Notiz von Freitag und was du da geschafft hast. Hast du
+den Tag ohne Notiz abgeschlossen, sagt es dir genau das — statt dir eine
+ältere unterzuschieben.
 
 **Nach ein paar Tagen weg.** Urlaub, krank, Konferenz. Der Wiedereinstieg ist
 kein Archäologie-Projekt mehr.
@@ -45,12 +46,14 @@ steht: *Was steht morgen an?* Ein paar Stichworte reichen. Dann: *Tag
 abgeschlossen. Genieß den Rest des Tages.*
 
 **Morgens.** Du klappst den Laptop auf, und Handoff ist schon da. *Guten
-Morgen.* Deine Notiz von gestern. Alles, was offen ist. Und darüber ein kurzer
-Fokus: die zwei, drei Dinge, auf die es heute ankommt — jedes mit einem Satz
-dazu, warum. Ein Klick, und daraus wird eine Aufgabe für heute.
+Morgen.* Deine Notiz von gestern. Was du gestern geschafft hast. Alles, was
+offen ist. Und darüber ein kurzer Fokus: die zwei, drei Dinge, auf die es heute
+ankommt — jedes mit einem Satz dazu, warum. Ein Klick, und daraus wird eine
+Aufgabe für heute.
 
 **Tagsüber.** Handoff ist weg. Es liegt in der Taskleiste bzw. Menüleiste, und
-ein Klick öffnet eine kleine Karte zum Abhaken. Mehr will es nicht von dir.
+ein Klick öffnet eine kleine Karte zum Abhaken — und zum schnellen Notieren,
+wenn dir zwischendurch etwas einfällt. Mehr will es nicht von dir.
 
 Das Beste daran: Du musst nichts davon starten. Das Briefing meldet sich
 morgens von selbst, genau einmal, und legt sich kurz über alle Fenster, damit
@@ -64,8 +67,8 @@ Vier Ansichten, mehr gibt es nicht.
 
 | Ansicht | Wofür |
 |---|---|
-| **Briefing** | Der Morgen-Screen. Notiz von gestern, offene Aufgaben, dein Fokus für heute. Kommt von selbst. |
-| **Heute** | Deine Liste. Was von vorher übrig ist, steht oben getrennt — mit Datum, damit du siehst, wie lange es schon mitläuft. |
+| **Briefing** | Der Morgen-Screen. Notiz von gestern, was du geschafft hast, offene Aufgaben, dein Fokus für heute. Kommt von selbst. |
+| **Heute** | Deine Liste. Was von vorher übrig ist, wartet oben im Backlog — mit Datum, damit du siehst, wie lange es schon mitläuft. Was heute dran ist, ziehst du von dort nach „Heute". |
 | **Tag abschließen** | Der Braindump. Ein Feld für den Tag, ein Feld für morgen. |
 | **Verlauf** | Alle Braindumps zum Nachlesen, Tag für Tag, mit dem, was du an dem Tag geschafft hast. |
 
@@ -81,6 +84,8 @@ Vier Ansichten, mehr gibt es nicht.
   daraus eine Aufgabe — Doppelte erkennt er selbst.
 - **Nichts fällt hinten runter.** Offen ist offen: Aufgaben wandern von allein
   in den nächsten Tag, bis du sie abhakst oder streichst.
+- **Große Aufgaben in kleine Schritte.** Jede Aufgabe kann Unteraufgaben
+  bekommen. Hakst du die Aufgabe ab, sind ihre Schritte mit erledigt.
 - **Eine Erinnerung am Nachmittag**, wenn du sie willst — und nur dann, wenn
   du den Braindump noch nicht gemacht hast.
 - **Dunkel, wenn dein System dunkel ist.** Und farbig nur an den Tagesrändern:
